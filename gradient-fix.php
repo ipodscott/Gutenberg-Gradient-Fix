@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Gradient Color Fix
 * Plugin URI: https://hazzardlabs.com/
-* Description: This plugin adds fix for the cover gradient colors that improve visibility of the gradient color picker.
+* Description: This plugin adds a fix a for better visualization of the control point buttons within the Gutenberg gradient color picker.
 * Version: 1.0
 * Author: Doc Hazzard
 * Author URI: https://hazzardlabs.com/
