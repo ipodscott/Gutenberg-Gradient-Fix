@@ -10,7 +10,7 @@
 
 function custom_admin_css() {
    echo '<style>
-   .components-custom-gradient-picker__control-point-button {
+   .components-custom-gradient-picker__control-point-button, .react-colorful__alpha-pointer {
 	  background-color: #00000050;
 	  border-style: solid !important;
 	  border-width: 1px !important;
